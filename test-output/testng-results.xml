@@ -2,20 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="59270" started-at="2019-06-06T19:57:38Z" finished-at="2019-06-06T19:58:37Z">
+  <suite name="Default suite" duration-ms="22705" started-at="2019-06-06T20:17:22Z" finished-at="2019-06-06T20:17:45Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="59270" started-at="2019-06-06T19:57:38Z" finished-at="2019-06-06T19:58:37Z">
-      <class name="Selenium.Automation.AppTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:Selenium.Automation.AppTest@add0edd]" name="setUp" is-config="true" duration-ms="33788" started-at="2019-06-06T19:57:38Z" finished-at="2019-06-06T19:58:11Z">
+    <test name="Default test" duration-ms="22705" started-at="2019-06-06T20:17:22Z" finished-at="2019-06-06T20:17:45Z">
+      <class name="Selenium.Automation.Frameshandling">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Selenium.Automation.Frameshandling@6093dd95]" name="setUp" is-config="true" duration-ms="11369" started-at="2019-06-06T20:17:22Z" finished-at="2019-06-06T20:17:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="test()[pri:0, instance:Selenium.Automation.AppTest@add0edd]" name="test" duration-ms="25261" started-at="2019-06-06T19:58:11Z" finished-at="2019-06-06T19:58:37Z">
+        <test-method status="PASS" signature="testFrames()[pri:0, instance:Selenium.Automation.Frameshandling@6093dd95]" name="testFrames" duration-ms="10483" started-at="2019-06-06T20:17:34Z" finished-at="2019-06-06T20:17:44Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test -->
-      </class> <!-- Selenium.Automation.AppTest -->
+        </test-method> <!-- testFrames -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Selenium.Automation.Frameshandling@6093dd95]" name="tearDown" is-config="true" duration-ms="826" started-at="2019-06-06T20:17:44Z" finished-at="2019-06-06T20:17:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Selenium.Automation.Frameshandling -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
