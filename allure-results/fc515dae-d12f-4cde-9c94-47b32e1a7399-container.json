@@ -1,0 +1,1 @@
+{"uuid":"fc515dae-d12f-4cde-9c94-47b32e1a7399","name":"Selenium.Automation.AppTest","start":1559851058091,"stop":1559851117376,"children":["2932db2d-e816-46ea-9978-c1188cb1cda9"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1559851058121,"stop":1559851091890}]}
